@@ -1,1 +1,3 @@
 # ddos_script
+
+ok
