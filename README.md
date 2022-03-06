@@ -1,3 +1,3 @@
 # ddos_script
 
-ok
+ok discord.gg/ctxsend
